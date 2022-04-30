@@ -3,12 +3,12 @@
 </p>
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=Bad-Sec-Tor&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bad-Sec-Tor&bg_color=15,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/Bad-Sec-Tor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad-Sec-Tor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+<p align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bad-Sec-Tor&show_icons=true&include_all_commits&count_private=true&custom_title=Github%20Activity&theme=dracula" height="155em" />
+
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad-Sec-Tor&card_width=250&custom_title=Most%20used%20languages&langs_count=8&layout=compact&theme=dracula" height="155em" />
+  <div = align="center">
 
 
 ### Languages
@@ -21,3 +21,11 @@
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+<p align="center">
+  
+  <img src="https://github.com/gabrieltheophilo/gabrieltheophilo/blob/output/github-contribution-grid-snake.svg">
+  
+</p>
+      
+![Contador](https://komarev.com/ghpvc/?username=Bad-Sec-Tor)
