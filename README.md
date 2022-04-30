@@ -4,7 +4,7 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=Bad-Sec-Tor&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bad-Sec-Tor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bad-Sec-Tor&bg_color=15,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/Bad-Sec-Tor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad-Sec-Tor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
