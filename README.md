@@ -1,7 +1,19 @@
 <p align='center'>
     <img src="https://github.com/Bad-Sec-Tor/Bad-Sec-Tor/blob/main/prog.gif">
 </p>
+### **_Contact Details_**
 
+<p align='center'>
+  <a href="https://t.me/bad_sector_bot">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/AfjdkEfFQbIy">
+    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:Mail-To-Bad-Sector@proton.me">
+    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
 <p align="center">
   
@@ -21,6 +33,8 @@
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Fedora](https://img.shields.io/fedora/v/rpm?color=black&logo=fedora)
+![Ubuntu](https://img.shields.io/ubuntu/v/ubuntu-wallpapers?logo=ubuntu)
 
 <p align="center">
   
