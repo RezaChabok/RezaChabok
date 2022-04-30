@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://github-readme-stats.vercel.app/api?username=m0rp43us&count_private=true&show_icons=true&theme=chartreuse-dark
 <!--
 **Bad-Sec-Tor/Bad-Sec-Tor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
