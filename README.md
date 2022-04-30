@@ -1,4 +1,6 @@
-
+<p align='center'>
+    <img src="https://github.com/Bad-Sec-Tor/Bad-Sec-Tor/blob/main/prog.gif">
+</p>
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=Bad-Sec-Tor&count_private=true&show_icons=true&theme=chartreuse-dark">
