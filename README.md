@@ -1,8 +1,9 @@
 <p align='center'>
     <img src="https://github.com/Bad-Sec-Tor/Bad-Sec-Tor/blob/main/prog.gif">
 </p>
-### **_Contact Details_**
 
+
+### Contact Details
 <p align='center'>
   <a href="https://t.me/bad_sector_bot">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
