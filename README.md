@@ -7,9 +7,7 @@
   <a href="https://t.me/bad_sector_bot">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/AfjdkEfFQbIy">
-    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-  </a>&nbsp;&nbsp;
+ 
   <a href="mailto:Mail-To-Bad-Sector@proton.me">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
