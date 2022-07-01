@@ -24,11 +24,11 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Html](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3)
 
 ### Frameworks
