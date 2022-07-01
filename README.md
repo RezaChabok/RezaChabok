@@ -3,7 +3,7 @@
 </p>
 
 <div = align="center">
-# Contact Details
+### Contact Details
 <p align='center'>
   <a href="https://t.me/bad_sector_bot">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?logo=telegram&logoColor=white" />
