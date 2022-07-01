@@ -24,12 +24,12 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white)
-![Html](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Html](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3)
 
 ### Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
@@ -38,9 +38,9 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora)
-![Kali](https://img.shields.io/badge/Kali-268BEE?logo=kalilinux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
+![Kali](https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
 
 <p align="center">
