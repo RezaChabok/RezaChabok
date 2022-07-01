@@ -6,12 +6,12 @@
 # Contact Details
 <p align='center'>
   <a href="https://t.me/bad_sector_bot">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?logo=telegram&logoColor=white" />
+  </a>
  
   <a href="mailto:Mail-To-Bad-Sector@proton.me">
-    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?logo=python)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
