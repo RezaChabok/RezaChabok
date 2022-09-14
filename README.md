@@ -45,7 +45,7 @@
 
 <p align="center">
   
-  <img src="https://github.com/Bad-Sec-Tor/Bad-Sec-Tor/github-contribution-grid-snake.svg">
+  <img src="https://github.com/Bad-Sec-Tor/Bad-Sec-Tor/blob/main/github-contribution-grid-snake.svg">
   
 </p>
       
