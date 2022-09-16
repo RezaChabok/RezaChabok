@@ -5,11 +5,11 @@
 <div = align="center">
 ### Contact Details
 <p align='center'>
-  <a href="https://t.me/bad_sector_bot">
+  <a href="https://t.me/number_one_world">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?logo=telegram&logoColor=white" />
   </a>
  
-  <a href="mailto:Mail-To-Bad-Sector@proton.me">
+  <a href="mailto:r.chabok@proton.me">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?logo=gmail&logoColor=white" />
   </a>
 </p>
