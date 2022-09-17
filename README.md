@@ -16,9 +16,9 @@
 
 <p align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bad-Sec-Tor&show_icons=true&include_all_commits&count_private=true&custom_title=Github%20Activity&theme=dracula" height="155em" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RezaChabok&show_icons=true&include_all_commits&count_private=true&custom_title=Github%20Activity&theme=dracula" height="155em" />
 
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad-Sec-Tor&card_width=250&custom_title=Most%20used%20languages&langs_count=8&layout=compact&theme=dracula" height="155em" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaChabok&card_width=250&custom_title=Most%20used%20languages&langs_count=8&layout=compact&theme=dracula" height="155em" />
   <div = align="center">
 
 
@@ -45,8 +45,8 @@
 
 <p align="center">
   
-  <img src="https://github.com/Bad-Sec-Tor/Bad-Sec-Tor/blob/main/giphy.gif">
+  <img src="https://github.com/RezaChabok/RezaChabok/blob/main/giphy.gif">
   
 </p>
       
-![Contador](https://komarev.com/ghpvc/?username=Bad-Sec-Tor)
+![Contador](https://komarev.com/ghpvc/?username=RezaChabok)
