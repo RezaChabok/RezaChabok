@@ -1,9 +1,7 @@
 <p align='center'>
     <img src="https://github.com/Bad-Sec-Tor/Bad-Sec-Tor/blob/main/prog.gif">
-</p>
-<p = align="center">
 ### Contact Details
- <p>
+</p>
 <p align='center'>
   <a href="https://t.me/number_one_world">
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white" />
