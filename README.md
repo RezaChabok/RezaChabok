@@ -2,7 +2,6 @@
     <img src="https://github.com/Bad-Sec-Tor/Bad-Sec-Tor/blob/main/prog.gif">
 </p>
 
-<div = align="center">
 ### Contact Details
 <p align='center'>
   <a href="https://t.me/number_one_world">
