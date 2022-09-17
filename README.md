@@ -6,9 +6,13 @@
 ### Contact Details
 <p align='center'>
   <a href="https://t.me/number_one_world">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white" />
   </a>
- 
+  
+ <a href="https://www.linkedin.com/in/reza-chabok-4b06a8250">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" />
+  </a>
+  
   <a href="mailto:r.chabok@proton.me">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?logo=gmail&logoColor=white" />
   </a>
