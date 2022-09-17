@@ -1,8 +1,8 @@
 <p align='center'>
     <img src="https://github.com/Bad-Sec-Tor/Bad-Sec-Tor/blob/main/prog.gif">
 </p>
-</p align='center'>
-### Contact Details
+<p align='center' text='bold'>
+Contact Details
 </p>
 <p align='center'>
   <a href="https://t.me/number_one_world">
