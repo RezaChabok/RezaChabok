@@ -1,12 +1,9 @@
 <p align='center'>
     <img src="https://github.com/Bad-Sec-Tor/Bad-Sec-Tor/blob/main/prog.gif">
-</p>
 <b>
-    <p align='center' >
 Contact Details
     </p>
 </b>
-<p align='center'>
   <a href="https://t.me/number_one_world">
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white" />
   </a>
@@ -18,13 +15,7 @@ Contact Details
   <a href="mailto:r.chabok@proton.me">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  
-
-
-
+<p align='center'>
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
@@ -38,7 +29,6 @@ Contact Details
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
 
 ### Operating Systems
-
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=black)
@@ -46,10 +36,9 @@ Contact Details
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
 
-
   
   <img src="https://github.com/RezaChabok/RezaChabok/blob/main/giphy.gif">
   
-</p>
       
 ![Contador](https://komarev.com/ghpvc/?username=RezaChabok)
+</p>
