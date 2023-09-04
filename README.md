@@ -46,7 +46,7 @@ Contact Details
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
 
-<p align="center">
+
   
   <img src="https://github.com/RezaChabok/RezaChabok/blob/main/giphy.gif">
   
