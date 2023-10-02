@@ -53,9 +53,5 @@ Contact Details
     
 </div>
 
-<br>
-<img src="https://github.com/RezaChabok/RezaChabok/blob/main/giphy.gif">
-<br>
-
 ![Contador](https://komarev.com/ghpvc/?username=RezaChabok)
 </div>
